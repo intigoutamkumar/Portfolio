@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/inti-goutam-kumar-b8307b24a/)
 [![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://drive.google.com/file/d/1mhgL5kYqe0yN3Ptb7qcLBnShcqT-3z2S/)
 
-> May 2026 CS graduate · 9.37 CGPA · AWS Certified · Open to Full Stack / Backend / Frontend roles across India
+> May 2026 CSE graduate · 9.37 CGPA · AWS Certified · Open to Full Stack / Backend / Frontend roles across India
 
 ---
 
