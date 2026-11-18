@@ -2,9 +2,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-brightgreen)](https://intigoutamkumar.github.io/Portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/inti-goutam-kumar-b8307b24a/)
-[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://drive.google.com/file/d/1mhgL5kYqe0yN3Ptb7qcLBnShcqT-3z2S/)
+[![Resume](https://img.shields.io/badge/Resume-Download-orange)](https://drive.google.com/file/d/1d-Pz55Tnd0EHphV9QbvqdTiNFMlJQIJ6/view?usp=sharing)
 
-> May 2026 CSE graduate · 9.37 CGPA · AWS Certified · Open to Full Stack / Backend / Frontend roles across India
+> May 2026 CSE graduate · 9.34 CGPA · AWS Certified · Open to Full Stack / Backend / Frontend roles across India
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## Credentials
 
-- 🎓 B.Tech Computer Science — KL University, **9.37 CGPA** (2022–2026)
+- 🎓 B.Tech Computer Science — KL University, **9.34 CGPA** (2022–2026)
 - ☁️ AWS Certified Cloud Practitioner — 2025
 - ⚡ Salesforce AI Associate — 2024
 - 💡 300+ DSA problems solved
